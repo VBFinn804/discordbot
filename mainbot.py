@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import os
 
-# Setze deine Bot-Token hier (auf Replit als Umgebungsvariable speichern!)
+# Setze deine Bot-Token hier
 TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 
 # Erstelle einen Bot mit Präfix "."
